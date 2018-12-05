@@ -1,15 +1,24 @@
 <html>
-  <title><h1>État de la population de frêne de l'île de Montréal, 2016</h1>
+  <title>État de la population de frêne de l'île de Montréal, 2016
   </title>
 
   <head>
 
   </head>
+<style> body {background color:"#E1DDDC" } </style>
 
-  <body bgcolor="#E1DDDC">
-    <h1>État de la population de frêne de l'île de Montréal, 2016
+
+    <h1 align="center">État de la population de frêne de l'île de Montréal, 2016
     </h1>
-    <p>La population de frêne de l'île de Montréal est actuellement grandement affectée par l'agrile du frêne, petit insecte originaire de l'Asie. À son stade larvaire, l'agrile du frêne affecte la circulation de sève en creusant des tunnels sous l'écorce
-      de l'arbre. Les symptômes d'une infestation apparaissent généralement lorsqu'il est trop tard, d'où l'importance de prévenir(Ville de Montréal). </p>
-    <iframe src=https://arcg.is/1WeuKm height="500" width="500"> </iframe>
+    <p align="justify">La population de frêne de l'île de Montréal est actuellement grandement affectée par l'agrile du frêne, petit insecte originaire de l'Asie.
+    À son stade larvaire, l'agrile du frêne affecte la circulation de sève en creusant des tunnels sous l'écorce
+      de l'arbre. Les symptômes d'une infestation apparaissent généralement lorsqu'il est trop tard, d'où l'importance de prévenir(Ville de Montréal). </p> 
+      <body align="center">
+      
+   
+    <iframe src=https://arcg.is/1Ljjvy height="500" width="900"> </iframe>
+   </body>
+<p align="center"> Pour en apprendre plus visitez le site de la     
+<a href="http://ville.montreal.qc.ca/portal/page?_pageid=7377,91133623&_dad=portal&_schema=PORTA">ville de Montréal </a>  
+</p>
   </body>
